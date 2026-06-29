@@ -1,0 +1,16 @@
+{
+  "name": "cc0company-mcp-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Examples for the cc0company MCP server — free discovery + an end-to-end paid x402 tool call.",
+  "scripts": {
+    "list": "node list-tools.mjs",
+    "pay": "node pay-and-call.mjs"
+  },
+  "dependencies": {
+    "@x402/core": "latest",
+    "@x402/evm": "latest",
+    "viem": "latest"
+  }
+}
