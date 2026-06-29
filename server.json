@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.cryptomfer/cc0company-mcp",
-  "description": "The largest machine-readable CC0 database (cc0pedia) + the cc0.company agent-services catalog as a remote MCP server. Pay-per-call over x402 (USDC on Base).",
+  "description": "cc0pedia CC0 database + cc0.company agent services as MCP tools, paid per call via x402 on Base.",
   "status": "active",
   "version": "2.0.0",
   "websiteUrl": "https://cc0.company",
